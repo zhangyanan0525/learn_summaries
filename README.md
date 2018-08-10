@@ -1,6 +1,8 @@
 # learn_summaries
 
 ## 就是个学习集锦
+
+### [11、Object.defineProperty()](https://github.com/zhangyanan0525/learn_summaries/issues/12)
 ### [11、Object.freeze()](https://github.com/zhangyanan0525/learn_summaries/issues/11)
 ### [10、promise很多奇怪的点](https://github.com/zhangyanan0525/learn_summaries/issues/10)
 ### [9、bind实现](https://github.com/zhangyanan0525/learn_summaries/issues/9)
