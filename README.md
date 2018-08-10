@@ -1,7 +1,7 @@
 # learn_summaries
 
 ## 就是个学习集锦
-### [11、冻结对象](https://github.com/zhangyanan0525/learn_summaries/issues/11)
+### [11、Object.freeze()](https://github.com/zhangyanan0525/learn_summaries/issues/11)
 ### [10、promise很多奇怪的点](https://github.com/zhangyanan0525/learn_summaries/issues/10)
 ### [9、bind实现](https://github.com/zhangyanan0525/learn_summaries/issues/9)
 ### [8、移动端1px问题原因和解决方案](https://github.com/zhangyanan0525/learn_summaries/issues/8)
