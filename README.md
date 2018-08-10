@@ -2,6 +2,7 @@
 
 ## 就是个学习集锦
 
+### [13、函数截流，防抖](https://github.com/zhangyanan0525/learn_summaries/issues/13)
 ### [12、Object.defineProperty()](https://github.com/zhangyanan0525/learn_summaries/issues/12)
 ### [11、Object.freeze()](https://github.com/zhangyanan0525/learn_summaries/issues/11)
 ### [10、promise很多奇怪的点](https://github.com/zhangyanan0525/learn_summaries/issues/10)
