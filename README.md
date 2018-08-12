@@ -2,6 +2,8 @@
 
 ## 就是个学习集锦
 
+### [15、new运算符](https://github.com/zhangyanan0525/learn_summaries/issues/15)
+### [14、this](https://github.com/zhangyanan0525/learn_summaries/issues/14)
 ### [13、函数截流，防抖](https://github.com/zhangyanan0525/learn_summaries/issues/13)
 ### [12、Object.defineProperty()](https://github.com/zhangyanan0525/learn_summaries/issues/12)
 ### [11、Object.freeze()](https://github.com/zhangyanan0525/learn_summaries/issues/11)
