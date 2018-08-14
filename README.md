@@ -7,7 +7,7 @@
 ### [13、函数截流，防抖](https://github.com/zhangyanan0525/learn_summaries/issues/13)
 ### [12、Object.defineProperty()](https://github.com/zhangyanan0525/learn_summaries/issues/12)
 ### [11、Object.freeze()](https://github.com/zhangyanan0525/learn_summaries/issues/11)
-### [10、promise很多奇怪的点](https://github.com/zhangyanan0525/learn_summaries/issues/10)
+### [10、promise](https://github.com/zhangyanan0525/learn_summaries/issues/10)
 ### [9、bind实现](https://github.com/zhangyanan0525/learn_summaries/issues/9)
 ### [8、移动端1px问题原因和解决方案](https://github.com/zhangyanan0525/learn_summaries/issues/8)
 ### [7、判断Object,Array](https://github.com/zhangyanan0525/learn_summaries/issues/7)
