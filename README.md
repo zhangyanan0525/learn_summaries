@@ -2,6 +2,7 @@
 
 ## 就是个学习集锦
 
+### [22、task, microtasks](https://github.com/zhangyanan0525/learn_summaries/issues/22)
 ### [21、Promise A+实现](https://github.com/zhangyanan0525/learn_summaries/issues/21)
 ### [20、XSS攻击](https://github.com/zhangyanan0525/learn_summaries/issues/20)
 ### [19、CSRF攻击](https://github.com/zhangyanan0525/learn_summaries/issues/19)
